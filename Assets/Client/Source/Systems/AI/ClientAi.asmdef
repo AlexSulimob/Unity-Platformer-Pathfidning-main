@@ -1,0 +1,26 @@
+{
+    "name": "ClientAi",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4026e61f9457b7b45a478646532d4b9d",
+        "GUID:870abd77dd3da9e41a2dfc165e5ab84d",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:b572cc8951acd4249bfda0be2c89e0e9",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:a22362b82293644e1bbe51356c008d63",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:53284cd24b962f6cda78ddb84d6ddf13",
+        "GUID:049ef828e34ed17dd8934a26b1776423",
+        "GUID:206779980ac58453ea65e900299ccf71"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "EcsComponents",
+    "rootNamespace": "",
+    "references": [
+        "GUID:870abd77dd3da9e41a2dfc165e5ab84d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

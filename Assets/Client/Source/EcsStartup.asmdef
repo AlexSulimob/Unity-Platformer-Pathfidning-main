@@ -1,0 +1,24 @@
+{
+    "name": "EcsStartup",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7ecb2586e4e11ac0ab29317c90ad04a3",
+        "GUID:a430c38443f084852ac90f155ea93a18",
+        "GUID:4026e61f9457b7b45a478646532d4b9d",
+        "GUID:66f53d036b18999f99aeb77c34753a84",
+        "GUID:870abd77dd3da9e41a2dfc165e5ab84d",
+        "GUID:dbf9471e04e531e3294f4e83f3790136",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:206779980ac58453ea65e900299ccf71",
+        "GUID:a22362b82293644e1bbe51356c008d63"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

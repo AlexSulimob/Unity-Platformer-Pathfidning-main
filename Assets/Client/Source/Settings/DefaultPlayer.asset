@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28d53b8114e7e3ab994b93756dbc035b, type: 3}
+  m_Name: DefaultPlayer
+  m_EditorClassIdentifier: 
+  groundSpeed: 800
+  groundDrag: 20
+  slopeSpeed: 1000
+  airSpeed: 200
+  airDrag: 5
+  JumpForce: 100
+  LowJumpForce: 80
+  JumpCutValue: 0.5
+  coyoteTime: 0.2
+  jumpBuffer: 0.2
+  jumpCd: 0.2
+  amountOfAirJumps: 1
+  maxFallingSpeed: -50
+  fallingGravity: 5
+  jumpGravity: 4
+  gravityThreshold: 0
+  speedUpFallingGravity: 6
+  wallSlideSpeed: -3
+  wallJumpAngle: {x: 1, y: 1}
+  x_wallJumpforce: 60
+  y_wallJumpforce: 70
+  wallHangRange: 0.2

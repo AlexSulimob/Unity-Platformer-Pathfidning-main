@@ -1,0 +1,19 @@
+{
+    "name": "ClientPhyscsInfo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:53284cd24b962f6cda78ddb84d6ddf13",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:a22362b82293644e1bbe51356c008d63",
+        "GUID:4026e61f9457b7b45a478646532d4b9d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

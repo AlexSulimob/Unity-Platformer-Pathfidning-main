@@ -1,0 +1,17 @@
+{
+    "name": "ClientShared",
+    "rootNamespace": "",
+    "references": [
+        "GUID:870abd77dd3da9e41a2dfc165e5ab84d",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
