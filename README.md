@@ -1,5 +1,7 @@
 # Unity-Platformer-AStarPathfinding
 
+# https://focus705.itch.io/platformer-pathfinding
+https://focus705.itch.io/platformer-pathfinding
  
 # Preview
 ![alt-text](./Gif/montage.gif)
